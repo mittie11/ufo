@@ -33,7 +33,7 @@ export const posts: Post[] = [
 
 <h2>The 2017 New York Times Story That Broke the Dam</h2>
 
-<p>On December 16, 2017, the New York Times published a story that would have been dismissed as conspiracy content a year earlier. Its headline: "Glowing Auras and Black Money: The Pentagon's Mysterious UFO Program." The story revealed the existence of the Advanced Aerospace Threat Identification Program (AATIP) — a classified $22-million USD program that had been quietly studying UAP since 2007.</p>
+<p>On December 16, 2017, the New York Times published a story that would have been dismissed as conspiracy content a year earlier. Its headline: "Glowing Auras and Black Money: The Pentagon's Mysterious UFO Program." The story revealed the existence of the <a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer">Advanced Aerospace Threat Identification Program (AATIP)</a> — a classified $22-million USD program that had been quietly studying UAP since 2007.</p>
 
 <p>Alongside the article, the Pentagon released three declassified Navy fighter videos showing objects moving in ways no known aircraft technology could explain. The objects hovered. They accelerated to impossible speeds. They executed manoeuvres that would be physically fatal for a human pilot. The footage was not amateur video — it was classified military recording from instruments worth hundreds of millions of dollars.</p>
 
@@ -85,7 +85,7 @@ export const posts: Post[] = [
 
 <p>The country's UAP history is not a collection of vague reports from unreliable witnesses. Several Canadian incidents involve physical evidence, radar corroboration, multiple credible witnesses, and official investigations that ended without a conventional explanation. Here are seven of the most significant cases that Canadian officials were never able to fully resolve.</p>
 
-<h2>1. The Falcon Lake Incident, Manitoba — May 20, 1967</h2>
+<h2>1. The <a href="https://en.wikipedia.org/wiki/Falcon_Lake_incident" target="_blank" rel="noopener noreferrer">Falcon Lake Incident</a>, Manitoba — May 20, 1967</h2>
 
 <p>Stefan Michalak was a professional prospector and amateur geologist from Winnipeg who drove to Falcon Lake Provincial Park in May 1967 to search for quartz veins. On the afternoon of May 20, he reported two cigar-shaped objects descending from the sky, one of which landed nearby in a clearing. He approached and spent approximately 30 minutes examining the craft, sketching its surface texture and structural details in his notebook.</p>
 
@@ -93,7 +93,7 @@ export const posts: Post[] = [
 
 <p>The subsequent investigations were among the most extensive ever conducted on a Canadian UAP incident: the RCMP, the Royal Canadian Air Force, the U.S. Air Force Blue Book program, and Health Canada all investigated. Soil samples from the landing site showed elevated radiation levels. The 1968 Condon Committee report examined the case and could not explain it. Michalak maintained his account consistently until his death. The Falcon Lake incident remains one of the few UAP cases anywhere in the world with documented physical evidence of that quality.</p>
 
-<h2>2. The Shag Harbour Crash, Nova Scotia — October 4, 1967</h2>
+<h2>2. The <a href="https://en.wikipedia.org/wiki/Shag_Harbour_UFO_incident" target="_blank" rel="noopener noreferrer">Shag Harbour</a> Crash, Nova Scotia — October 4, 1967</h2>
 
 <p>On the night of October 4, 1967, at least eleven civilian witnesses in and around Shag Harbour, Nova Scotia, observed a large illuminated object descend at a shallow angle into the harbour waters. Among the witnesses were RCMP officers who had been dispatched after civilian emergency calls began flooding in. The officers watched the object enter the water and filed an official report using the designation "UFO" — one of the very few times that term appeared in official Canadian government documentation.</p>
 
@@ -129,7 +129,7 @@ export const posts: Post[] = [
 
 <h2>7. CFB Comox Radar Tracking, British Columbia — 1990s</h2>
 
-<p>Radar operators at Canadian Forces Base Comox on Vancouver Island logged multiple unexplained radar contacts during the 1990s — objects moving at velocities inconsistent with known aircraft, making abrupt directional changes, and then disappearing from screens without trace. The contacts were documented internally and shared with U.S. counterparts through joint NORAD air defence arrangements. Several have been partially declassified. What analysts concluded from the data has never been fully made public.</p>
+<p>Radar operators at Canadian Forces Base Comox on Vancouver Island logged multiple unexplained radar contacts during the 1990s — objects moving at velocities inconsistent with known aircraft, making abrupt directional changes, and then disappearing from screens without trace. The contacts were documented internally and shared with U.S. counterparts through joint <a href="https://www.norad.mil/" target="_blank" rel="noopener noreferrer">NORAD</a> air defence arrangements. Several have been partially declassified. What analysts concluded from the data has never been fully made public.</p>
 
 <h2>The Bottom Line</h2>
 
@@ -151,7 +151,7 @@ export const posts: Post[] = [
 
 <h2>What Official Admission Actually Looks Like</h2>
 
-<p>The admission has not been a single dramatic revelation. It has been a carefully managed series of incremental disclosures, each extending the boundary of what is officially acknowledged while stopping short of language that would trigger genuine public alarm. The 2017 New York Times story on the Pentagon's secret UAP research was the first major break. The 2019 official confirmation that the three Navy UAP videos were authentic was the second. The 2021 ODNI report acknowledging 143 unresolved military UAP incidents was the third. The 2022 establishment of AARO — the All-domain Anomaly Resolution Office — as a permanent, funded body was the fourth.</p>
+<p>The admission has not been a single dramatic revelation. It has been a carefully managed series of incremental disclosures, each extending the boundary of what is officially acknowledged while stopping short of language that would trigger genuine public alarm. The 2017 New York Times story on the Pentagon's secret UAP research was the first major break. The 2019 official confirmation that the three Navy UAP videos were authentic was the second. The 2021 <a href="https://www.dni.gov/" target="_blank" rel="noopener noreferrer">ODNI</a> report acknowledging 143 unresolved military UAP incidents was the third. The 2022 establishment of <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer">AARO — the All-domain Anomaly Resolution Office</a> — as a permanent, funded body was the fourth.</p>
 
 <p>Each step quietly normalised the next. Researchers call this pattern "gradual disclosure" — the incremental release of information designed to prevent the kind of societal disruption that an immediate, complete revelation might cause. Whether this is deliberate strategy or simply bureaucratic incrementalism is debated. What is clear is that the trajectory has consistently moved in one direction.</p>
 
@@ -203,7 +203,7 @@ export const posts: Post[] = [
 
 <h2>The Wow Signal — Nearly 50 Years and Still Unexplained</h2>
 
-<p>On August 15, 1977, astronomer Jerry Ehman was analysing data from the Big Ear radio telescope at Ohio State University when he spotted a 72-second radio signal unlike anything the instrument had ever recorded. He circled it on the printout and wrote "Wow!" in the margin. The Wow Signal, as it came to be known, has never been satisfactorily explained or reproduced.</p>
+<p>On August 15, 1977, astronomer Jerry Ehman was analysing data from the <a href="https://en.wikipedia.org/wiki/Big_Ear" target="_blank" rel="noopener noreferrer">Big Ear</a> radio telescope at Ohio State University when he spotted a 72-second radio signal unlike anything the instrument had ever recorded. He circled it on the printout and wrote "Wow!" in the margin. The Wow Signal, as it came to be known, has never been satisfactorily explained or reproduced.</p>
 
 <p>The signal arrived on the 1420 MHz frequency — the hydrogen line, the most abundant radio frequency in the universe and the one most commonly proposed as an interstellar communication channel. It was precisely narrowband, unlike any natural radio source. It exhibited the Doppler shift characteristics expected from a signal originating at a fixed point in space. By every measurable criterion, it had the profile of an artificial transmission from an astronomical source.</p>
 
@@ -211,7 +211,7 @@ export const posts: Post[] = [
 
 <h2>The BLC1 Signal From Proxima Centauri</h2>
 
-<p>In April 2021, The Guardian reported that scientists at the SETI Institute's Breakthrough Listen project had detected a narrow-band radio signal appearing to originate near Proxima Centauri — the closest star to our sun, located just 4.2 light-years away and known to host at least one planet. The signal, designated BLC1, was detected by the Parkes radio telescope in Australia in 2019 but kept confidential while analysts worked to understand it.</p>
+<p>In April 2021, The Guardian reported that scientists at the <a href="https://breakthroughinitiatives.org/initiative/1" target="_blank" rel="noopener noreferrer">Breakthrough Listen</a> project had detected a narrow-band radio signal appearing to originate near Proxima Centauri — the closest star to our sun, located just 4.2 light-years away and known to host at least one planet. The signal, designated BLC1, was detected by the Parkes radio telescope in Australia in 2019 but kept confidential while analysts worked to understand it.</p>
 
 <p>BLC1 had several features characteristic of a genuine extraterrestrial signal: it was narrow-band, it drifted in frequency in a way consistent with a transmitter on a rotating planet, and it appeared only when the telescope was pointed at Proxima Centauri. After extended analysis, the Breakthrough Listen team concluded it was almost certainly radio frequency interference from Earth-based sources — specifically, electronic equipment mimicking certain signal characteristics.</p>
 
@@ -233,7 +233,7 @@ export const posts: Post[] = [
 
 <p>The traditional SETI focus on radio signals reflects the technology available when the search began in 1960. A growing school of thought argues that a civilization significantly more advanced than ours would not necessarily use radio at all. Looking only for radio signals may be like trying to detect a smartphone by listening for telegraph clicks. We might be surrounded by communication that our instruments are simply not designed to detect.</p>
 
-<p>The search for technosignatures has expanded to include atmospheric chemical signatures detectable by space telescopes, megastructure signatures in stellar light curves, and optical laser pulse signatures detectable by dedicated optical SETI systems. Each approach opens a new search space. The James Webb Space Telescope, with its atmospheric characterisation capability, is adding an entirely new dimension to the search that did not exist five years ago.</p>
+<p>The search for technosignatures has expanded to include atmospheric chemical signatures detectable by space telescopes, megastructure signatures in stellar light curves, and optical laser pulse signatures detectable by dedicated optical <a href="https://www.seti.org/" target="_blank" rel="noopener noreferrer">SETI</a> systems. Each approach opens a new search space. The James Webb Space Telescope, with its atmospheric characterisation capability, is adding an entirely new dimension to the search that did not exist five years ago.</p>
 
 <h2>What Canadian Researchers Are Contributing</h2>
 
@@ -320,7 +320,7 @@ export const posts: Post[] = [
     date: "2026-04-28",
     readTime: "10 min read",
     content: `
-<p>The United States government spent most of the 20th century officially denying any serious institutional interest in unidentified flying objects. Project Blue Book — the Air Force program that ran from 1952 to 1969 — was publicly positioned as a thorough scientific investigation that found nothing of significance. The reality was considerably more complicated, and the documents that have since come to light paint a picture very different from the official narrative.</p>
+<p>The United States government spent most of the 20th century officially denying any serious institutional interest in unidentified flying objects. <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer">Project Blue Book</a> — the Air Force program that ran from 1952 to 1969 — was publicly positioned as a thorough scientific investigation that found nothing of significance. The reality was considerably more complicated, and the documents that have since come to light paint a picture very different from the official narrative.</p>
 
 <p>Understanding what the Pentagon's files actually show requires distinguishing between what has been officially released, what has been officially acknowledged but not fully disclosed, and what has been alleged by credible insiders but officially denied. All three categories are remarkable.</p>
 
@@ -410,7 +410,7 @@ export const posts: Post[] = [
 
 <h2>6. Mars Shows Evidence of Past Habitability</h2>
 
-<p>Mars was not always the cold, dry desert it appears today. Orbital imagery, surface rover data, and atmospheric analysis all confirm that Mars had liquid water on its surface billions of years ago — rivers, lakes, and possibly oceans. The ancient river deltas in Jezero Crater, which NASA's Perseverance rover is currently exploring, formed when liquid water flowed across the Martian surface for extended periods.</p>
+<p>Mars was not always the cold, dry desert it appears today. Orbital imagery, surface rover data, and atmospheric analysis all confirm that Mars had liquid water on its surface billions of years ago — rivers, lakes, and possibly oceans. The ancient river deltas in Jezero Crater, which NASA's <a href="https://mars.nasa.gov/mars2020/" target="_blank" rel="noopener noreferrer">Perseverance rover</a> is currently exploring, formed when liquid water flowed across the Martian surface for extended periods.</p>
 
 <p>If Mars had liquid water for hundreds of millions of years, and if life arose on Earth within a relatively short period after liquid water became available here, the question of why life would not have arisen on ancient Mars is one that astrobiologists take very seriously. We have not yet found evidence of past Martian life. We have also not yet looked everywhere, with everything we have.</p>
 
@@ -450,9 +450,9 @@ export const posts: Post[] = [
     date: "2026-04-26",
     readTime: "9 min read",
     content: `
-<p>The James Webb Space Telescope is the most powerful astronomical instrument ever built, and what it has found in its first years of operation has already forced scientists to revise assumptions about the nature and distribution of galaxies, stars, and planetary systems throughout the universe. But one finding in particular — quiet, cautious, and carefully qualified in every scientific paper that mentions it — may ultimately be the most significant discovery in the history of astronomy.</p>
+<p>The <a href="https://science.nasa.gov/mission/webb/" target="_blank" rel="noopener noreferrer">James Webb Space Telescope</a> is the most powerful astronomical instrument ever built, and what it has found in its first years of operation has already forced scientists to revise assumptions about the nature and distribution of galaxies, stars, and planetary systems throughout the universe. But one finding in particular — quiet, cautious, and carefully qualified in every scientific paper that mentions it — may ultimately be the most significant discovery in the history of astronomy.</p>
 
-<p>In the summer of 2023, Webb observations of the exoplanet K2-18b — a "Hycean world" orbiting a cool red dwarf star 120 light-years from Earth — detected carbon dioxide, methane, and a tentative signal of dimethyl sulfide in its atmosphere. On Earth, dimethyl sulfide is produced primarily by marine phytoplankton. It has no known inorganic source. If the detection holds, it would be the first time a plausible biosignature has been observed on a world beyond our solar system.</p>
+<p>In the summer of 2023, Webb observations of the exoplanet <a href="https://en.wikipedia.org/wiki/K2-18b" target="_blank" rel="noopener noreferrer">K2-18b</a> — a "Hycean world" orbiting a cool red dwarf star 120 light-years from Earth — detected carbon dioxide, methane, and a tentative signal of dimethyl sulfide in its atmosphere. On Earth, dimethyl sulfide is produced primarily by marine phytoplankton. It has no known inorganic source. If the detection holds, it would be the first time a plausible biosignature has been observed on a world beyond our solar system.</p>
 
 <h2>What the James Webb Space Telescope Actually Does</h2>
 
@@ -562,7 +562,7 @@ export const posts: Post[] = [
     content: `
 <p>In 1950, physicist Enrico Fermi was having lunch with colleagues at Los Alamos National Laboratory when the conversation turned to the possibility of extraterrestrial life. Given the age of the universe, the vast number of stars, and the apparent suitability of many worlds for life, Fermi asked a deceptively simple question: "Where is everybody?" If intelligent life should be common, why have we seen absolutely no sign of it?</p>
 
-<p>That question — now known as the Fermi Paradox — remains unanswered more than seventy years later. We have not detected a single confirmed signal from another civilisation. We have not found physical evidence of visitation by any non-human technology that the scientific mainstream accepts. The universe appears, from where we stand, to be conspicuously silent. And several of the most serious modern attempts to explain that silence are, when you understand their implications fully, deeply unsettling.</p>
+<p>That question — now known as the <a href="https://en.wikipedia.org/wiki/Fermi_paradox" target="_blank" rel="noopener noreferrer">Fermi Paradox</a> — remains unanswered more than seventy years later. We have not detected a single confirmed signal from another civilisation. We have not found physical evidence of visitation by any non-human technology that the scientific mainstream accepts. The universe appears, from where we stand, to be conspicuously silent. And several of the most serious modern attempts to explain that silence are, when you understand their implications fully, deeply unsettling.</p>
 
 <h2>The Scale of the Paradox</h2>
 
@@ -626,7 +626,7 @@ export const posts: Post[] = [
 
 <p>Twining wrote that the observed phenomena were "real and not visionary or fictitious." He described objects as "circular or disc-shaped," apparently metallic, capable of high rates of climb and manoeuvrability, and flying at speeds up to 300 knots. He noted that they exhibited "extreme rates of climb" and "evasive action when sighted." He recommended the creation of a classified project to study them. That project became Project Sign, the first of the U.S. Air Force's formal UAP study programmes.</p>
 
-<h2>2. The Robertson Panel Documents (1953) — The Decision to Debunk</h2>
+<h2>2. The <a href="https://en.wikipedia.org/wiki/Robertson_Panel" target="_blank" rel="noopener noreferrer">Robertson Panel</a> Documents (1953) — The Decision to Debunk</h2>
 
 <p>In January 1953, the CIA convened a secret panel of scientists chaired by physicist H.P. Robertson to assess the national security implications of UFO reports. The panel's report, declassified in 1975, is remarkable not for what it found but for what it recommended. The panel concluded that UFO reports posed a threat to national security — not because the objects themselves were dangerous, but because the volume of reports was overwhelming communication channels and making it difficult to identify genuine threats.</p>
 
@@ -634,7 +634,7 @@ export const posts: Post[] = [
 
 <h2>3. Project Blue Book Files (1952–1969) — 701 Cases Never Explained</h2>
 
-<p>The declassified Project Blue Book files, now available through the National Archives, contain 12,618 case files covering reported UAP incidents from 1952 to 1969. Blue Book officially classified 701 of these cases as "unidentified" — meaning Air Force investigators could not find a conventional explanation. The Condon Committee, commissioned to review Blue Book's work before the programme was closed, produced a report concluding there was nothing of scientific interest. The committee's own internal communications, subsequently released, showed that several of its members disagreed sharply with that conclusion.</p>
+<p>The declassified <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer">Project Blue Book</a> files, now available through the <a href="https://www.archives.gov/" target="_blank" rel="noopener noreferrer">National Archives</a>, contain 12,618 case files covering reported UAP incidents from 1952 to 1969. Blue Book officially classified 701 of these cases as "unidentified" — meaning Air Force investigators could not find a conventional explanation. The Condon Committee, commissioned to review Blue Book's work before the programme was closed, produced a report concluding there was nothing of scientific interest. The committee's own internal communications, subsequently released, showed that several of its members disagreed sharply with that conclusion.</p>
 
 <h2>4. The CIA's 1978 Document Release</h2>
 
@@ -778,7 +778,7 @@ export const posts: Post[] = [
     content: `
 <p>In the autumn of 1961, radio astronomer Frank Drake wrote an equation on a chalkboard at the Green Bank Observatory in West Virginia. He was preparing for a small conference on the search for extraterrestrial intelligence — the first serious scientific gathering on the subject — and he wanted a framework for thinking about how many communicating civilisations might exist in our galaxy at any given moment. The equation he wrote became one of the most famous and debated formulas in the history of science.</p>
 
-<p>The Drake Equation is not a calculation in the traditional sense. It is a systematic way of organising our uncertainty. It multiplies together a series of factors — each representing a fraction of the universe that meets some criterion for potentially hosting communicating civilisations — and produces an estimate of how many such civilisations might exist. In 1961, Drake had very little data for most of its terms. He was essentially guessing. What has changed since then, as the data has arrived, is remarkable.</p>
+<p>The <a href="https://en.wikipedia.org/wiki/Drake_equation" target="_blank" rel="noopener noreferrer">Drake Equation</a> is not a calculation in the traditional sense. It is a systematic way of organising our uncertainty. It multiplies together a series of factors — each representing a fraction of the universe that meets some criterion for potentially hosting communicating civilisations — and produces an estimate of how many such civilisations might exist. In 1961, Drake had very little data for most of its terms. He was essentially guessing. What has changed since then, as the data has arrived, is remarkable.</p>
 
 <h2>The Variables in the Equation</h2>
 
@@ -848,7 +848,7 @@ export const posts: Post[] = [
 
 <h2>3. Avi Loeb, Former Harvard Astronomy Department Chair: "Oumuamua May Have Been Alien Technology"</h2>
 
-<p>Avi Loeb is not technically a NASA scientist, but his work has been funded by NASA grants and he served on numerous NASA advisory committees. When the interstellar object Oumuamua passed through our solar system in 2017, its unusual elongated shape, non-gravitational acceleration, and lack of visible outgassing led Loeb to propose in a peer-reviewed paper that it might be a piece of alien technology — specifically a light sail. Loeb was explicit that this was a hypothesis requiring evidence, not a conclusion. The mainstream astronomical community largely rejected his interpretation. But Loeb's standing — former chair of one of the world's top astronomy departments — meant the argument could not be dismissed as the work of an outsider.</p>
+<p>Avi Loeb is not technically a NASA scientist, but his work has been funded by NASA grants and he served on numerous NASA advisory committees. When the interstellar object <a href="https://en.wikipedia.org/wiki/%CA%BBOumuamua" target="_blank" rel="noopener noreferrer">Oumuamua</a> passed through our solar system in 2017, its unusual elongated shape, non-gravitational acceleration, and lack of visible outgassing led Loeb to propose in a peer-reviewed paper that it might be a piece of alien technology — specifically a light sail. Loeb was explicit that this was a hypothesis requiring evidence, not a conclusion. The mainstream astronomical community largely rejected his interpretation. But Loeb's standing — former chair of one of the world's top astronomy departments — meant the argument could not be dismissed as the work of an outsider.</p>
 
 <h2>4. Thomas Donahue, NASA/NAS Atmospheric Scientist: "We Should Take Unexplained Observations Seriously"</h2>
 
@@ -918,7 +918,7 @@ export const posts: Post[] = [
 
 <p>The most comprehensive civilian database of Canadian UAP reports is maintained by Ufology Research of Manitoba, which has published annual reports on Canadian UFO sightings since 1989. UFOROM's annual Manitoban and Canadian summaries are the most systematic public record of UAP reports in Canada, drawing on Transport Canada data, police reports, civilian submissions, and its own research network.</p>
 
-<p>The Mutual UFO Network Canada (MUFON Canada) maintains a reporting database accessible online through the MUFON global portal. Reports submitted through MUFON are assessed by trained field investigators. The quality of field investigation varies by region and investigator availability, but the organisation provides detailed report forms that capture far more information than most government channels collect.</p>
+<p>The <a href="https://mufon.com/" target="_blank" rel="noopener noreferrer">Mutual UFO Network Canada (MUFON Canada)</a> maintains a reporting database accessible online through the MUFON global portal. Reports submitted through MUFON are assessed by trained field investigators. The quality of field investigation varies by region and investigator availability, but the organisation provides detailed report forms that capture far more information than most government channels collect.</p>
 
 <p>The UFO*BC website covers British Columbia specifically and has one of the longer continuously maintained provincial sighting databases in the country. Similar province-specific organisations operate in Ontario, Quebec, and Alberta with varying degrees of activity and database depth.</p>
 
@@ -972,9 +972,9 @@ export const posts: Post[] = [
     date: "2026-04-17",
     readTime: "9 min read",
     content: `
-<p>In 2015, a paper appeared in the Monthly Notices of the Royal Astronomical Society that generated more public discussion than almost any astronomical discovery in recent memory. Its subject was a star in the constellation Cygnus, approximately 1,470 light-years from Earth, designated KIC 8462852 in the Kepler Space Telescope's catalogue. The paper described something that the planet-hunting algorithm designed to find regular, periodic transits of exoplanets had flagged as extraordinary: this star was dimming in a way that nothing in the scientific literature could convincingly explain.</p>
+<p>In 2015, a paper appeared in the Monthly Notices of the Royal Astronomical Society that generated more public discussion than almost any astronomical discovery in recent memory. Its subject was a star in the constellation Cygnus, approximately 1,470 light-years from Earth, designated <a href="https://en.wikipedia.org/wiki/Tabby%27s_Star" target="_blank" rel="noopener noreferrer">KIC 8462852</a> in the Kepler Space Telescope's catalogue. The paper described something that the planet-hunting algorithm designed to find regular, periodic transits of exoplanets had flagged as extraordinary: this star was dimming in a way that nothing in the scientific literature could convincingly explain.</p>
 
-<p>The informal name the star quickly acquired — Tabby's Star, after astronomer Tabetha Boyajian who led the initial study — became one of the most discussed objects in astronomy. For a period in 2016, "Dyson sphere" trended on social media because a Harvard physicist named Jason Wright noted in a paper that a megastructure built by an advanced civilisation was a technically possible explanation for what the star was doing. What followed was one of the most interesting case studies in how science handles an anomaly that it cannot immediately resolve.</p>
+<p>The informal name the star quickly acquired — <a href="https://en.wikipedia.org/wiki/Tabby%27s_Star" target="_blank" rel="noopener noreferrer">Tabby's Star</a>, after astronomer Tabetha Boyajian who led the initial study — became one of the most discussed objects in astronomy. For a period in 2016, "Dyson sphere" trended on social media because a Harvard physicist named Jason Wright noted in a paper that a megastructure built by an advanced civilisation was a technically possible explanation for what the star was doing. What followed was one of the most interesting case studies in how science handles an anomaly that it cannot immediately resolve.</p>
 
 <h2>What Makes KIC 8462852 Extraordinary</h2>
 
@@ -1186,7 +1186,7 @@ export const posts: Post[] = [
     date: "2026-04-13",
     readTime: "9 min read",
     content: `
-<p>In July 2022, the United States Department of Defense established the All-domain Anomaly Resolution Office — AARO — as the primary government body responsible for detecting, identifying, and attributing UAP observed by military sensors. It was the most significant institutional commitment to investigating unexplained aerial phenomena in American history: a permanent office with a director, a staff, a budget, and a mandate to report to Congress.</p>
+<p>In July 2022, the United States Department of Defense established the <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer">All-domain Anomaly Resolution Office — AARO</a> — as the primary government body responsible for detecting, identifying, and attributing UAP observed by military sensors. It was the most significant institutional commitment to investigating unexplained aerial phenomena in American history: a permanent office with a director, a staff, a budget, and a mandate to report to Congress.</p>
 
 <p>AARO has now been operating for several years. It has released public reports, testified to Congress, and issued statements on specific cases. What it has confirmed, what it has been unable to confirm, and what it has been explicitly denied access to by the agencies it is supposed to oversee together form a picture considerably more interesting than its official statements alone suggest.</p>
 
@@ -1757,7 +1757,7 @@ export const posts: Post[] = [
     date: "2026-05-01",
     readTime: "8 min read",
     content: `
-<p>Somewhere in the rolling grasslands of southern Alberta, in a remote corner of Vulcan County, sits a circle of rocks so old that it predates Stonehenge by a thousand years. The Majorville Cairn — sometimes called the "Canadian Stonehenge" — is one of the oldest ceremonial structures in the Western Hemisphere. Most Canadians have never heard of it. Archaeologists who have studied it admit they cannot fully explain what it is, who built it, or why it is aligned the way it is.</p>
+<p>Somewhere in the rolling grasslands of southern Alberta, in a remote corner of Vulcan County, sits a circle of rocks so old that it predates Stonehenge by a thousand years. The <a href="https://en.wikipedia.org/wiki/Majorville_Medicine_Wheel" target="_blank" rel="noopener noreferrer">Majorville Cairn</a> — sometimes called the "Canadian Stonehenge" — is one of the oldest ceremonial structures in the Western Hemisphere. Most Canadians have never heard of it. Archaeologists who have studied it admit they cannot fully explain what it is, who built it, or why it is aligned the way it is.</p>
 
 <p>What makes this structure remarkable is not just its age. It is the precision, the astronomical knowledge embedded in its design, and the fact that it appears to have been used continuously for nearly 5,000 years — longer than almost any other ceremonial site on Earth.</p>
 
@@ -1829,7 +1829,7 @@ export const posts: Post[] = [
     date: "2026-04-28",
     readTime: "9 min read",
     content: `
-<p>In 1795, a sixteen-year-old named Daniel McGinnis rowed to a small island off the south coast of Nova Scotia and found a depression in the earth beneath an old oak tree. He gathered two friends, started digging, and encountered something that has consumed the time, money, and attention of treasure hunters, archaeologists, and millionaires ever since. More than 230 years later, with six lives lost and hundreds of millions of dollars spent, nobody can say with certainty what is buried on Oak Island — or whether anything is buried there at all.</p>
+<p>In 1795, a sixteen-year-old named Daniel McGinnis rowed to a small island off the south coast of Nova Scotia and found a depression in the earth beneath an old oak tree. He gathered two friends, started digging, and encountered something that has consumed the time, money, and attention of treasure hunters, archaeologists, and millionaires ever since. More than 230 years later, with six lives lost and hundreds of millions of dollars spent, nobody can say with certainty what is buried on <a href="https://en.wikipedia.org/wiki/Oak_Island" target="_blank" rel="noopener noreferrer">Oak Island</a> — or whether anything is buried there at all.</p>
 
 <p>This is not a story about a treasure that has been found. It is a story about a mystery that refuses to give up its answer, and about the island's extraordinary, devastating grip on everyone who tries to solve it.</p>
 
@@ -1907,7 +1907,7 @@ export const posts: Post[] = [
     date: "2026-04-25",
     readTime: "9 min read",
     content: `
-<p>The Great Pyramid of Giza contains approximately 2.3 million stone blocks. The average block weighs 2.5 to 15 tonnes, with some blocks in the interior weighing up to 80 tonnes. The structure is 138.8 metres tall. Its base deviates from a perfect square by less than 58 millimetres. It is aligned to true north with an error of just 0.05 degrees — more precisely than the Paris Observatory, built 4,000 years later with modern instruments. It was built approximately 4,500 years ago. We still cannot fully explain how.</p>
+<p>The <a href="https://en.wikipedia.org/wiki/Great_Pyramid_of_Giza" target="_blank" rel="noopener noreferrer">Great Pyramid of Giza</a> contains approximately 2.3 million stone blocks. The average block weighs 2.5 to 15 tonnes, with some blocks in the interior weighing up to 80 tonnes. The structure is 138.8 metres tall. Its base deviates from a perfect square by less than 58 millimetres. It is aligned to true north with an error of just 0.05 degrees — more precisely than the Paris Observatory, built 4,000 years later with modern instruments. It was built approximately 4,500 years ago. We still cannot fully explain how.</p>
 
 <p>This is not a fringe statement. It is an admission that appears, carefully worded, in mainstream Egyptology. The broad strokes of pyramid construction — large organised labour forces, sledges, ramps, water-lubricated sledge tracks — are accepted. The specific engineering details that would explain how 2.3 million precisely cut stones were quarried, transported, lifted, and fitted together with tolerances of a fraction of a millimetre remain actively debated and partially unresolved.</p>
 
@@ -1979,7 +1979,7 @@ export const posts: Post[] = [
     content: `
 <p>From the ground, you see nothing. The Peruvian desert looks like ordinary scrubland — flat, dry, windswept. But from an aircraft, the desert reveals something that has no business being there: hundreds of enormous figures drawn into the earth. A monkey with a curling tail. A hummingbird with a wingspan of 96 metres. A spider so precisely drawn that it has been identified as belonging to a specific genus of arachnid found only in the deep Amazon. Thousands of perfectly straight lines extending for kilometres across a landscape so flat that you can watch a line run to the horizon without a single deviation.</p>
 
-<p>The Nazca Lines were created between roughly 500 BCE and 500 CE by the Nazca culture of ancient Peru. They cover approximately 450 square kilometres of the Pampa Colorada, a high desert plateau between the Andes mountains and the Pacific coast. They are recognised as one of the world's greatest archaeological mysteries — and in 2019, artificial intelligence began discovering hundreds more that nobody had noticed.</p>
+<p>The <a href="https://en.wikipedia.org/wiki/Nazca_Lines" target="_blank" rel="noopener noreferrer">Nazca Lines</a> were created between roughly 500 BCE and 500 CE by the Nazca culture of ancient Peru. They cover approximately 450 square kilometres of the Pampa Colorada, a high desert plateau between the Andes mountains and the Pacific coast. They are recognised as one of the world's greatest archaeological mysteries — and in 2019, artificial intelligence began discovering hundreds more that nobody had noticed.</p>
 
 <h2>What the Nazca Lines Actually Are</h2>
 
@@ -2053,7 +2053,7 @@ export const posts: Post[] = [
     content: `
 <p>On the night of March 13, 1997, something flew over the state of Arizona that nobody has been able to satisfactorily explain. Thousands of witnesses — including police officers, pilots, military personnel, and the Governor of Arizona — reported a massive, silent craft moving slowly across the night sky. It was reportedly larger than several football fields. It made no sound. It moved too slowly for conventional aircraft. And the official explanation — military flares — contradicts most of the eyewitness testimony in ways that have never been reconciled.</p>
 
-<p>The Phoenix Lights incident remains the most witnessed UFO event in North American history and one of the most compelling mass sightings ever documented. More than 25 years later, the questions have not been answered.</p>
+<p>The <a href="https://en.wikipedia.org/wiki/Phoenix_Lights" target="_blank" rel="noopener noreferrer">Phoenix Lights</a> incident remains the most witnessed UFO event in North American history and one of the most compelling mass sightings ever documented. More than 25 years later, the questions have not been answered.</p>
 
 <h2>What Witnesses Reported That Night</h2>
 
@@ -2130,7 +2130,7 @@ export const posts: Post[] = [
     content: `
 <p>In November 2004, Commander David Fravor, a seasoned U.S. Navy pilot with 16 years of experience and more than 3,500 flight hours, was flying an F/A-18F Super Hornet over the Pacific Ocean about 100 miles southwest of San Diego when he encountered something he has spent the rest of his life trying to explain. The object was white, oblong, and roughly the size of an F/A-18 — about 14 metres long. It had no visible wings, no engines, no exhaust, and no markings. It was hovering approximately 15 metres above the ocean surface, and the water beneath it was churning as if it were distorting. When Fravor turned his aircraft toward the object to get a closer look, it accelerated and disappeared in an instant. In less than a second, it was gone.</p>
 
-<p>This encounter — now formally known as the USS Nimitz UFO incident and officially classified as an unresolved UAP (Unidentified Aerial Phenomenon) by the United States government — is one of the most well-documented and credible UFO encounters in recorded history.</p>
+<p>This encounter — now formally known as the <a href="https://en.wikipedia.org/wiki/USS_Nimitz_UFO_incident" target="_blank" rel="noopener noreferrer">USS Nimitz UFO incident</a> and officially classified as an unresolved UAP (Unidentified Aerial Phenomenon) by the United States government — is one of the most well-documented and credible UFO encounters in recorded history.</p>
 
 <h2>The Background: What Preceded the Encounter</h2>
 
@@ -2193,7 +2193,7 @@ export const posts: Post[] = [
     date: "2026-04-05",
     readTime: "8 min read",
     content: `
-<p>Stephenville, Texas is a small city of about 20,000 people in Erath County, about 150 kilometres southwest of Dallas-Fort Worth. On the evening of January 8, 2008, it became the centre of one of the most investigated UFO incidents in modern American history. More than 200 witnesses — including a pilot, a business owner, several police officers, and dozens of ordinary residents — reported seeing a massive, silent object moving over the town. Military jets were seen pursuing it. And radar data obtained through Freedom of Information Act requests later revealed something that the Air Force had initially denied: they were tracking something, and it was heading directly toward the restricted airspace over President George W. Bush's Crawford Ranch.</p>
+<p><a href="https://en.wikipedia.org/wiki/Stephenville_UFO_sightings" target="_blank" rel="noopener noreferrer">Stephenville, Texas</a> is a small city of about 20,000 people in Erath County, about 150 kilometres southwest of Dallas-Fort Worth. On the evening of January 8, 2008, it became the centre of one of the most investigated UFO incidents in modern American history. More than 200 witnesses — including a pilot, a business owner, several police officers, and dozens of ordinary residents — reported seeing a massive, silent object moving over the town. Military jets were seen pursuing it. And radar data obtained through Freedom of Information Act requests later revealed something that the Air Force had initially denied: they were tracking something, and it was heading directly toward the restricted airspace over President George W. Bush's Crawford Ranch.</p>
 
 <p>The Stephenville incident is significant not because of the witness testimony alone — mass sightings occur relatively frequently — but because the subsequent radar data provided by MUFON (the Mutual UFO Network) and analysed by aviation professionals offers physical corroboration of the witnesses' accounts in a way that is extremely rare in UAP investigation.</p>
 
