@@ -62,7 +62,7 @@ export default function HomePage() {
           {posts.length > 7 && (
             <div className="mt-8 text-center">
               <Link
-                href="/category/health"
+                href="/category/government-secrets"
                 className="inline-block px-6 py-3 bg-red-600 text-white font-semibold rounded-full hover:bg-red-700 transition-colors text-sm"
               >
                 See All Stories →

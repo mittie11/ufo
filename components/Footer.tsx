@@ -13,7 +13,7 @@ export default function Footer() {
               </span>
             </Link>
             <p className="text-sm text-gray-400 leading-relaxed max-w-sm">
-              Your trusted source for health, finance, lifestyle, and travel stories crafted for Canadians. Informative, honest, and always relevant.
+              Canada's source for UFO sightings, government disclosure, alien theories, and paranormal news. Credible reporting on the unexplained.
             </p>
           </div>
 
@@ -60,7 +60,7 @@ export default function Footer() {
             © {new Date().getFullYear()} CanadaInsider. All rights reserved.
           </p>
           <p className="text-xs text-gray-600">
-            Content is for informational purposes only. Always consult a professional.
+            Content is for informational and entertainment purposes only.
           </p>
         </div>
       </div>

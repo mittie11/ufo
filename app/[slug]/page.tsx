@@ -11,6 +11,19 @@ type Props = {
   params: Promise<{ slug: string }>;
 };
 
+function splitContentForAd(html: string): [string, string] {
+  const target = Math.floor(html.length * 0.45);
+  let splitIndex = html.indexOf("</h2>", target);
+  if (splitIndex !== -1) {
+    splitIndex += 5;
+  } else {
+    splitIndex = html.indexOf("</p>", target);
+    if (splitIndex !== -1) splitIndex += 4;
+  }
+  if (splitIndex === -1 || splitIndex >= html.length) return [html, ""];
+  return [html.slice(0, splitIndex), html.slice(splitIndex)];
+}
+
 export async function generateStaticParams() {
   return posts.map((post) => ({ slug: post.slug }));
 }
@@ -39,10 +52,13 @@ export default async function ArticlePage({ params }: Props) {
   if (!post) notFound();
 
   const related = getRelatedPosts(post, 3);
+  const [firstHalf, secondHalf] = splitContentForAd(post.content);
+  const proseClasses =
+    "prose prose-lg max-w-none prose-headings:font-bold prose-headings:text-gray-900 prose-h2:text-2xl prose-h2:mt-8 prose-h3:text-xl prose-h3:mt-6 prose-p:text-gray-700 prose-p:leading-relaxed prose-li:text-gray-700 prose-a:text-red-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900";
 
   return (
     <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-      {/* Leaderboard ad */}
+      {/* Top leaderboard */}
       <AdUnit slot="leaderboard" className="mb-8 hidden md:flex" />
       <AdUnit slot="mobile-banner" className="mb-6 md:hidden" />
 
@@ -89,16 +105,21 @@ export default async function ArticlePage({ params }: Props) {
             />
           </div>
 
-          {/* Ad below first image */}
+          {/* Ad after hero — rectangle (highest CTR position per CLAUDE.md) */}
           <AdUnit slot="rectangle" className="mb-6" />
 
-          {/* Article content */}
-          <div
-            className="prose prose-lg max-w-none prose-headings:font-bold prose-headings:text-gray-900 prose-h2:text-2xl prose-h2:mt-8 prose-h3:text-xl prose-h3:mt-6 prose-p:text-gray-700 prose-p:leading-relaxed prose-li:text-gray-700 prose-a:text-red-600 prose-a:no-underline hover:prose-a:underline prose-strong:text-gray-900"
-            dangerouslySetInnerHTML={{ __html: post.content }}
-          />
+          {/* First half of article content */}
+          <div className={proseClasses} dangerouslySetInnerHTML={{ __html: firstHalf }} />
 
-          {/* Below article ad */}
+          {/* Mid-content ad — rectangle between sections */}
+          {secondHalf && <AdUnit slot="rectangle" className="my-6" />}
+
+          {/* Second half of article content */}
+          {secondHalf && (
+            <div className={proseClasses} dangerouslySetInnerHTML={{ __html: secondHalf }} />
+          )}
+
+          {/* Below article — leaderboard before related posts */}
           <AdUnit slot="leaderboard" className="mt-8 hidden md:flex" />
           <AdUnit slot="rectangle" className="mt-6 md:hidden" />
         </article>
@@ -125,12 +146,9 @@ export default async function ArticlePage({ params }: Props) {
           <div className="bg-red-50 border border-red-100 rounded-xl p-5">
             <h3 className="text-sm font-bold text-red-800 mb-1">About Canada Insider</h3>
             <p className="text-xs text-gray-600 mb-3">
-              Trusted health, finance, and lifestyle stories written for Canadians.
+              Canada&apos;s source for UFO sightings, government disclosure, and paranormal news.
             </p>
-            <Link
-              href="/about"
-              className="text-xs font-semibold text-red-700 hover:underline"
-            >
+            <Link href="/about" className="text-xs font-semibold text-red-700 hover:underline">
               Learn more →
             </Link>
           </div>

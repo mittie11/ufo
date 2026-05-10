@@ -1,11 +1,23 @@
-# Claude.md — Traffic Arbitrage News Site (Canada Market)
+# Claude.md — UFO & Sci-Fi Traffic Arbitrage Site (US Market)
 
 ## Project Overview
 
-Build a Next.js traffic arbitrage news website targeting **Canadian English-speaking audience**.
-Monetization: Google AdSense (primary) + Media.net (secondary).
+Build a Next.js traffic arbitrage news website in the **UFO, alien, paranormal, and science fiction niche** targeting **American English-speaking audience**.
+Monetization: Google AdSense → Ezoic → Mediavine (scale up).
 Traffic source: Facebook Ads.
-Goal: Buy traffic cheap (CPC $0.05–0.20) → monetize at higher RPM ($20–40+).
+Goal: Buy traffic cheap (CPC < $0.10) → monetize at RPM $10–20+.
+
+---
+
+## Top Competitor Sites (Study These)
+
+- **The Debrief** (thedebrief.org) — credible journalism, government sources, high DA
+- **The Black Vault** (theblackvault.com) — FOIA documents archive, DA 69
+- **Latest UFO Sightings** (latest-ufo-sightings.net) — 31K+ monthly visits
+- **Open Minds** (openminds.tv) — established UFO news
+- **MUFON** (mufon.com) — sighting reports database, DA 60
+
+**Gap to exploit**: Most sites are poorly designed and slow. A fast, modern Next.js site can outrank them easily.
 
 ---
 
@@ -14,53 +26,64 @@ Goal: Buy traffic cheap (CPC $0.05–0.20) → monetize at higher RPM ($20–40+
 - **Framework**: Next.js 14+ App Router, TypeScript
 - **Styling**: Tailwind CSS
 - **Hosting**: Vercel
-- **Content**: Static data in `lib/posts.ts` (no CMS needed initially)
-- **Images**: Unsplash (free, no attribution required for commercial use)
+- **Content**: Static data in `lib/posts.ts`
+- **Images**: Unsplash (free, commercial use)
 - **Analytics**: Google Analytics 4
-- **Ads**: Google AdSense
+- **Ads**: Google AdSense (launch) → Ezoic (growth) → Mediavine (50K sessions)
 
 ---
 
+## Content Categories (in order of viral potential)
 
-### Content Mix
-- 60% **evergreen** (timeless topics, long-tail SEO)
-- 40% **trending/seasonal** (holiday tips, news hooks)
-
-### Publishing Frequency
-- Minimum: 1–2 articles/day
-- Launch with 30+ articles before running ads
-- Target: 100+ articles within 3 months
+1. **Government & Pentagon Disclosure** — highest engagement, shares, comments
+2. **UFO Sightings with Video/Photo** — real footage hooks
+3. **Whistleblower & Alien Contact Stories** — curiosity-gap content
+4. **Ancient Aliens & Historical Mysteries** — evergreen, high search volume
+5. **NASA & Space Anomalies** — mainstream-friendly entry point
+6. **US Local Sightings** — geo-targeted, very effective for FB ads (Area 51, Roswell, Phoenix Lights...)
+7. **Sci-Fi Entertainment + Real Science** — crossover content, broad appeal
+8. **Conspiracy & Declassified Documents** — FOIA hooks
 
 ---
 
 ## Article Requirements
 
 ### Length
-- Minimum **1500 words** per article (AdSense requirement)
-- Target **2000–2500 words** for best performance
+- Minimum **1500 words** per article
+- Target **2000–2500 words**
 
-### Structure (every article must follow this)
-1. **Hook headline** (see formulas below)
-2. **Opening paragraph** — compelling statement or question, 2–3 sentences
+### Structure
+1. **Hook headline** using formulas below
+2. **Opening paragraph** — shock fact or question, 2–3 sentences
 3. **Subheadings every 300 words** (H2/H3)
 4. **Image every 300–400 words**
-5. **Numbered or bulleted lists** where possible
-6. **Strong closing** with call to action or summary
+5. **"Evidence" sections** — quotes, documents, dates, locations make it feel credible
+6. **Lists and numbered points** where possible
+7. **Strong closing** — "What do YOU think?" style to encourage comments
 
 ### Headline Formulas (use these)
-- `[Number] [Adjective] Ways To [Desired Outcome] (Without [Common Pain])`
-- `Why [Common Belief] Is Wrong — And What Actually Works`
-- `Doctors/Vets/Experts Are Warning [Target Audience] About This`
-- `[Number] Signs You Might Have [Problem] (And What To Do)`
-- `The [Number]-Minute [Solution] That [Benefit]`
-- `What Happens To Your [Body/Pet/Money] When You [Action]`
+- `[Military/NASA/Pentagon] Just Confirmed Something That Changes Everything`
+- `Declassified Documents Reveal What Really Happened At [Location]`
+- `A [US State] Resident Filmed This — Nobody Has an Explanation`
+- `[Number] Things The Government Doesn't Want You To Know About UFOs`
+- `Scientists Are Baffled By This [Object/Signal/Discovery]`
+- `Before It Gets Deleted: The Video That Has Everyone Talking`
+- `What Happened Over [US City] Last [Month] Has Officials Scrambling`
+- `The [Year] Incident That Changed How Experts Think About [Topic]`
+- `Why Millions of Americans Are Convinced [Claim]`
+- `[Number] UFO Sightings In America That Were Never Explained`
+- `This [Government/Military] Document Was Hidden For [X] Years`
+- `Ex-[NASA/Military/Government] Official Finally Tells The Truth About [Topic]`
 
 ### Content Writing Style
 - Conversational, easy to read (Grade 8 level)
 - Address reader directly: "you", "your"
-- No medical/legal/financial advice — always add disclaimer
-- Emotionally engaging: use storytelling, statistics, curiosity gaps
-- Canadian spelling where relevant (colour, behaviour, etc.)
+- Use specific details: dates, locations, names, document numbers = credibility
+- Include US locations: Nevada, New Mexico, Arizona, Texas, Florida, Roswell, Area 51, Pentagon
+- Emotionally engaging: wonder, curiosity, mild fear, excitement
+- Always hedge claims: "allegedly", "reportedly", "witnesses claim", "according to documents"
+- Add disclaimer on conspiracy articles: "This article presents reported claims and is for entertainment purposes."
+- American spelling: color, behavior, neighbor, center
 
 ---
 
@@ -71,67 +94,88 @@ Goal: Buy traffic cheap (CPC $0.05–0.20) → monetize at higher RPM ($20–40+
 /[slug]                    → Article detail page
 /category/[category]       → Category archive
 /about                     → About page (required for AdSense)
-/privacy                   → Privacy Policy (required for AdSense)
-/disclaimer                → Disclaimer (required for AdSense)
+/privacy                   → Privacy Policy
+/disclaimer                → Disclaimer
 ```
 
-### Required Pages Before AdSense Submission
-- About page
-- Privacy Policy (mention Google Analytics + AdSense)
-- Disclaimer (especially if health/finance niche)
+### Categories
+- UFO Sightings
+- Government Secrets
+- Alien Theories
+- Ancient Mysteries
+- Space & NASA
+- American Encounters
+- Sci-Fi & Science
 
 ---
 
 ## Ad Placement Strategy
 
-Place ads in these positions for maximum RPM:
-
-1. **Below header** — leaderboard 728x90 (desktop) or 320x50 (mobile)
-2. **After 1st paragraph** — rectangle 300x250 or 336x280 (highest CTR)
+1. **Below header** — leaderboard 728x90 (desktop) / 320x50 (mobile)
+2. **After 1st paragraph** — rectangle 300x250 (highest CTR)
 3. **Mid-content** — rectangle 300x250 between sections
-4. **Sidebar sticky** — 300x250 or 300x600 (desktop only)
-5. **Below article** — rectangle or leaderboard before related posts
+4. **Sidebar sticky** — 300x600 (desktop only)
+5. **Below article** — leaderboard before related posts
 
 **Rules:**
-- Never place ads so they cover content
+- Never cover content with ads
 - Mobile: max 3 ads visible at once
-- All ad units must be responsive
-- Do NOT use auto-ads initially — place manually for better control
+- All ad units responsive
+- Do NOT use auto-ads initially — place manually
 
 ---
 
 ## Facebook Ads Strategy
 
 ### Campaign Setup
-- Campaign objective: **Traffic** (not conversions)
-- Budget: Start $20–50/day per ad set
-- Targeting: **Canada only**, broad audience (let Meta algorithm optimize)
+- Objective: **Traffic** → Maximize Landing Page Views
+- Budget: Start $10–20/day per ad set
+- Targeting: **United States only**, ages 25–65
+- Interests: UFO, Paranormal, Ancient Aliens, History Channel, NASA, Conspiracy theories, Area 51, Roswell, X-Files
 - Use **Advantage+ placements**
-- Schedule: Run 24/7 unless testing time slots
+- Install **Meta Pixel** for retargeting (retarget past visitors at $0.03–0.06 CPC)
 
 ### Ad Creative Requirements
 - **Image size**: 1200x628px (feed) or 1080x1080px (square)
-- **Headline**: Use curiosity-gap formulas (same as article headline)
-- **Primary text**: 1–2 sentences, emotional hook
-- **CTA button**: "Learn More" or "Read More"
-- No stock-photo-looking images — use real, authentic images
-- Images of people outperform product/object images
+- **Best performing visuals**: Shaky-cam UFO footage stills, redacted document screenshots, night sky with lights
+- **Headline**: Curiosity-gap + authority shock (same formulas as articles)
+- **Primary text**: 1–2 sentences with FOMO hook
+- **CTA**: "Learn More" or "See What They Found"
+- Avoid overly polished stock photos — raw/authentic images outperform
 
-### What To Test
-- 3–5 different headlines per article
-- 2–3 different images per article
-- Kill ads with CTR below 1.5% after 3 days
-- Scale ads with CTR above 3% and positive ROAS
+### What Goes Viral
+- Real government/military video screenshots
+- "Before it's deleted" framing
+- Local US sighting stories with specific states/cities
+- Redacted document images
+- Side-by-side comparison images (then vs now, real vs fake)
+
+### Scaling Rules
+- Kill ads with CPC above $0.30 after 3 days
+- Scale winners 20% every 3 days
+- Refresh creatives every 10–14 days (niche fatigues fast)
 
 ### Profitability Calculation
 ```
-Daily spend: $50
-CPC: $0.10 → 500 visitors
-Pages per visit: 3 avg → 1500 pageviews
-RPM: $25 → Revenue = $37.50
-ROI: Negative (-$12.50) — need to improve
+Daily spend: $20
+CPC: $0.08 → 250 visitors
+Pages per visit: 3 avg → 750 pageviews
+RPM: $8 (Ezoic) → Revenue = $6
+Margin: Negative at start — need RPM $10+ or CPC $0.06 to profit
 ```
-Target: RPM $30+ and CPC below $0.08 to be profitable.
+Target: RPM $10+ (Ezoic optimized) and CPC below $0.08.
+
+---
+
+## Monetization Roadmap
+
+| Stage | Traffic | Platform | Expected RPM |
+|-------|---------|----------|-------------|
+| Launch | 0–10K sessions/mo | Google AdSense | $2–4 |
+| Growth | 10–50K sessions/mo | Ezoic | $4–8 |
+| Scale | 50K+ sessions/mo | Mediavine | $8–15 |
+
+Apply to Ezoic after 1 month with any traffic. Apply to Mediavine at 50K sessions/month.
 
 ---
 
@@ -142,71 +186,70 @@ Target: RPM $30+ and CPC below $0.08 to be profitable.
 - [ ] Google Analytics 4 script in `layout.tsx`
 - [ ] AdSense script in `<head>` of `layout.tsx`
 - [ ] Facebook Pixel in `layout.tsx`
-- [ ] Favicon (`app/icon.svg` or `app/icon.png`)
-- [ ] Open Graph meta tags on every page (for Facebook share preview)
+- [ ] Favicon (`app/icon.svg`)
+- [ ] Open Graph meta tags on every page (critical for Facebook share preview)
 - [ ] `next/image` configured with Unsplash domain in `next.config.js`
-- [ ] Sitemap (`/sitemap.xml`) for Google Search Console
+- [ ] Sitemap (`/sitemap.xml`)
 - [ ] `robots.txt`
 
-### Performance Requirements
-- Lighthouse score: 90+ on mobile
-- Page load: under 3 seconds on mobile
+### Performance
+- Page load under 3 seconds on mobile
 - All images lazy-loaded via `next/image`
-- No layout shift (CLS < 0.1)
+- Lighthouse mobile score 90+
 
 ---
 
 ## Content File Structure
 
-All articles stored in `lib/posts.ts` as TypeScript array:
-
 ```ts
 export type Post = {
-  slug: string           // URL-friendly, lowercase, hyphens
-  title: string          // Headline, 60-70 chars ideal
-  excerpt: string        // 150-160 chars for meta description
-  content: string        // Full HTML content, 1500+ words
-  category: string       // One of the defined categories
-  image: string          // Unsplash URL
-  date: string           // YYYY-MM-DD format
-  readTime: string       // "X min read"
+  slug: string        // URL-friendly, lowercase, hyphens
+  title: string       // Headline, 60-70 chars
+  excerpt: string     // 150-160 chars for meta description
+  content: string     // Full HTML, 1500+ words
+  category: string    // One of defined categories
+  image: string       // Unsplash URL
+  date: string        // YYYY-MM-DD
+  readTime: string    // "X min read"
 }
 ```
 
 ---
 
-## AdSense Compliance Rules
+## AdSense Compliance
 
-- Every article must have genuine, original value
-- No clickbait that misleads users about the content
-- No adult content, violence, hate speech
-- No copyright images (use Unsplash only)
-- Health articles must include disclaimer: "This article is for informational purposes only. Consult a healthcare professional."
-- Finance articles must include disclaimer about not being financial advice
+- Articles must be informational/entertainment — not present conspiracy as fact
+- Always use hedge words: "allegedly", "reportedly", "according to witnesses"
+- Include disclaimer: "For entertainment purposes only"
+- No violent or graphic content
+- No copyright images — Unsplash only
+- About + Privacy + Disclaimer pages required before applying
 
 ---
 
 ## Launch Sequence
 
-1. Build site with 30 articles
-2. Deploy to Vercel + connect domain
+1. Build site with 30+ articles across all categories
+2. Deploy to Vercel + connect domain (.com preferred)
 3. Submit to Google Search Console
-4. Apply for Google AdSense
-5. Wait for AdSense approval (1–2 weeks)
-6. After approval: set up ad units + place in site
-7. Start Facebook Ads ($20–50/day)
-8. Monitor ROAS daily, kill losing ads, scale winners
-9. Publish 1–2 new articles daily
-10. After 30 days: apply for Media.net as secondary ad network
+4. Apply Google AdSense
+5. Wait approval (1–2 weeks)
+6. Set up ad units manually
+7. Install Meta Pixel
+8. Start Facebook Ads ($10–20/day)
+9. Monitor CPC daily — kill above $0.30, scale below $0.10
+10. After 30 days: apply Ezoic for better RPM
 
 ---
 
 ## Important Notes for Claude
 
-- Write all articles targeting **Canadian English** readers
-- Avoid US-only references (say "across North America" or use Canadian examples)
-- All monetary amounts in **CAD** unless otherwise specified
-- Include Canadian cities/regions when relevant (Toronto, Vancouver, Montreal)
-- Health articles: reference Canadian health guidelines where applicable
-- Tone: trustworthy, informative, slightly informal — like a knowledgeable friend
-- Never recommend specific products by brand name without disclosure
+- Write all articles targeting **American English** readers
+- Include US locations and context where possible (states, cities, federal agencies: Pentagon, NASA, FBI, CIA)
+- All monetary amounts in **USD**
+- Tone: curious, slightly conspiratorial, trustworthy — like a well-researched podcast
+- Always hedge claims with "reportedly", "allegedly", "witnesses say"
+- Never state conspiracy theories as confirmed fact
+- Each article needs a **hook in first 2 sentences** strong enough to use as Facebook ad copy
+- Categories to prioritize: Government Secrets, American Encounters, UFO Sightings (highest FB engagement)
+- US market = 8x larger audience than Canada = higher volume, RPM $15–25+

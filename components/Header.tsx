@@ -11,7 +11,7 @@ export default function Header() {
               Canada<span className="text-gray-900">Insider</span>
             </span>
             <span className="hidden sm:inline text-xs text-gray-400 font-medium border-l border-gray-200 pl-2">
-              Your guide to life in Canada
+              Canada's UFO &amp; Paranormal News
             </span>
           </Link>
 

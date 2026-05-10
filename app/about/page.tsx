@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 export const metadata: Metadata = {
   title: "About Us",
   description:
-    "Canada Insider is a Canadian-focused editorial site covering health, finance, lifestyle, travel, and more — written for real Canadians by people who care about this country.",
+    "Canada Insider is Canada's dedicated source for UFO sightings, government disclosure, alien theories, and paranormal news — written for curious Canadians.",
 };
 
 export default function AboutPage() {
@@ -14,68 +14,71 @@ export default function AboutPage() {
 
       <div className="prose prose-lg max-w-none prose-headings:text-gray-900 prose-p:text-gray-700">
         <p>
-          Welcome to <strong>Canada Insider</strong> — a digital magazine built for Canadians who
-          want straightforward, trustworthy information about the things that actually matter in
-          their everyday lives.
+          Welcome to <strong>Canada Insider</strong> — Canada's dedicated source for UFO sightings,
+          government disclosure, alien theories, ancient mysteries, and paranormal news. We cover
+          the stories that mainstream media either ignores or buries on page 12.
         </p>
 
         <p>
-          We cover health and wellness, personal finance, home and living, pet care, lifestyle,
-          travel across Canada, and food — all through a distinctly Canadian lens. Whether
-          you're in Toronto, Vancouver, Calgary, Halifax, or anywhere in between, our goal is to
-          give you information that's relevant, actionable, and written for the Canadian context.
+          From declassified Pentagon documents to Canadian military encounters and whistleblower
+          testimony, we bring you the evidence, the analysis, and the questions that demand answers.
+          Whether you're a lifelong researcher or someone who just saw something strange over the
+          highway last Tuesday, you're in the right place.
         </p>
 
-        <h2>What We Stand For</h2>
+        <h2>What We Cover</h2>
 
         <p>
-          <strong>Accuracy:</strong> Every article is research-based. We cite credible sources,
-          reference Canadian health guidelines and government programs, and make a genuine effort
-          to verify the information we publish.
+          Canada Insider publishes original editorial content across seven categories:{" "}
+          <strong>UFO Sightings</strong>, <strong>Government Secrets</strong>,{" "}
+          <strong>Alien Theories</strong>, <strong>Ancient Mysteries</strong>,{" "}
+          <strong>Space &amp; NASA</strong>, <strong>Canadian Encounters</strong>, and{" "}
+          <strong>Sci-Fi &amp; Science</strong>. We pay special attention to Canadian sightings and
+          incidents — because this country has one of the most documented UFO histories in the world,
+          and most Canadians have never heard about it.
         </p>
 
-        <p>
-          <strong>Transparency:</strong> Canada Insider is ad-supported. We use Google AdSense to
-          display advertisements across the site. Advertising revenue helps us maintain the site
-          and continue publishing. Advertisers have no editorial influence over our content.
-        </p>
+        <h2>Our Editorial Standards</h2>
 
         <p>
-          <strong>Relevance:</strong> We write specifically for Canadians. All monetary amounts
-          are in Canadian dollars. Health information references Canadian guidelines. Finance
-          articles focus on Canadian programs, tax rules, and institutions. Travel articles
-          showcase the incredible diversity of this country.
-        </p>
-
-        <h2>Our Content</h2>
-
-        <p>
-          Canada Insider publishes original editorial content across seven categories: Health
-          &amp; Wellness, Finance &amp; Money, Home &amp; Living, Pets, Lifestyle, Travel Canada,
-          and Food &amp; Recipes.
+          <strong>Source-based reporting:</strong> Every claim in our articles is drawn from
+          credible sources — government documents, peer-reviewed research, verified witness
+          testimony, or official statements. We cite our sources and distinguish between confirmed
+          facts and reported allegations.
         </p>
 
         <p>
-          All health-related articles include a disclaimer that content is for informational
-          purposes only and does not constitute medical advice. Finance articles note that they do
-          not constitute financial advice. We encourage all readers to consult appropriate
-          professionals for personal guidance.
+          <strong>Honest hedging:</strong> We use words like "reportedly," "allegedly," and
+          "according to witnesses" because intellectual honesty matters. We do not present
+          unverified claims as established fact, and we do not sensationalise beyond what the
+          evidence supports.
+        </p>
+
+        <p>
+          <strong>Entertainment disclosure:</strong> Some of our content — particularly articles
+          covering conspiracy theories, unverified sightings, and speculative science — is intended
+          for entertainment and discussion purposes. We label these articles accordingly.
+        </p>
+
+        <h2>Advertising Disclosure</h2>
+
+        <p>
+          Canada Insider is ad-supported. We display advertisements via Google AdSense and
+          potentially other ad networks. Advertising revenue supports the operation of this site.
+          Advertisers have zero editorial influence over our content — we write what the evidence
+          supports, not what sponsors prefer.
         </p>
 
         <h2>Contact Us</h2>
 
         <p>
-          Have a question, correction, or feedback? We value hearing from our readers. You can
-          reach us by email. We read every message, though response times may vary.
+          Have a tip, a sighting to report, a correction, or feedback? We read every message.
+          Canada Insider is operated by a small, independent team with a genuine passion for this
+          field. We are not affiliated with any government agency, intelligence organisation, or
+          major media conglomerate.
         </p>
 
-        <p>
-          Canada Insider is operated by a small, independent team passionate about Canadian life.
-          We are not affiliated with any government agency, political party, or large media
-          conglomerate.
-        </p>
-
-        <p>Thank you for reading. We're genuinely glad you're here.</p>
+        <p>Thank you for reading. Keep looking up.</p>
       </div>
     </div>
   );

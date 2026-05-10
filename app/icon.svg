@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <rect width="32" height="32" rx="6" fill="#b91c1c"/>
+  <!-- UFO saucer body -->
+  <ellipse cx="16" cy="18" rx="10" ry="4" fill="#f1f5f9"/>
+  <!-- UFO dome -->
+  <ellipse cx="16" cy="14" rx="5" ry="4" fill="#bfdbfe"/>
+  <!-- Dome shine -->
+  <ellipse cx="14" cy="13" rx="2" ry="1.5" fill="white" opacity="0.6"/>
+  <!-- Underside lights -->
+  <circle cx="10" cy="19" r="1.2" fill="#fbbf24"/>
+  <circle cx="16" cy="20.5" r="1.2" fill="#fbbf24"/>
+  <circle cx="22" cy="19" r="1.2" fill="#fbbf24"/>
+  <!-- Stars -->
+  <circle cx="5" cy="8" r="0.8" fill="white"/>
+  <circle cx="27" cy="5" r="0.8" fill="white"/>
+  <circle cx="26" cy="12" r="0.6" fill="white"/>
+  <circle cx="4" cy="14" r="0.6" fill="white"/>
+</svg>

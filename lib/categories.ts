@@ -6,44 +6,39 @@ export type Category = {
 
 export const categories: Category[] = [
   {
-    slug: "health",
-    name: "Health & Wellness",
-    description: "Tips for living a healthier life across Canada.",
+    slug: "government-secrets",
+    name: "Government Secrets",
+    description: "Declassified documents, Pentagon disclosures, and what officials aren't telling you.",
   },
   {
-    slug: "finance",
-    name: "Finance & Money",
-    description: "Smart money moves for Canadians.",
+    slug: "ufo-sightings",
+    name: "UFO Sightings",
+    description: "Documented reports of unidentified aerial phenomena from across Canada and the world.",
   },
   {
-    slug: "home",
-    name: "Home & Living",
-    description: "Make the most of your Canadian home.",
+    slug: "alien-theories",
+    name: "Alien Theories",
+    description: "The latest theories and evidence about extraterrestrial life and contact.",
   },
   {
-    slug: "pets",
-    name: "Pets",
-    description: "Keep your furry friends happy and healthy.",
+    slug: "ancient-mysteries",
+    name: "Ancient Mysteries",
+    description: "Ancient civilisations, unexplained structures, and historical enigmas that science hasn't solved.",
   },
   {
-    slug: "lifestyle",
-    name: "Lifestyle",
-    description: "Live better, every single day.",
+    slug: "space-nasa",
+    name: "Space & NASA",
+    description: "The latest from space exploration, NASA discoveries, and cosmic anomalies.",
   },
   {
-    slug: "travel",
-    name: "Travel Canada",
-    description: "Explore the best of Canada.",
+    slug: "canadian-encounters",
+    name: "Canadian Encounters",
+    description: "UFO sightings and paranormal events reported across Canadian provinces.",
   },
   {
-    slug: "food",
-    name: "Food & Recipes",
-    description: "Delicious ideas for Canadian kitchens.",
-  },
-  {
-    slug: "science",
-    name: "Science & Space",
-    description: "UFOs, extraterrestrial life, space discoveries, and the science of the unknown.",
+    slug: "scifi-science",
+    name: "Sci-Fi & Science",
+    description: "Where science fiction meets real-world science and emerging technology.",
   },
 ];
 

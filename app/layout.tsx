@@ -12,11 +12,11 @@ const geist = Geist({
 export const metadata: Metadata = {
   metadataBase: new URL("https://www.canadainsider.ca"),
   title: {
-    default: "Canada Insider — Your Guide to Life in Canada",
+    default: "Canada Insider — UFO & Paranormal News for Canadians",
     template: "%s | Canada Insider",
   },
   description:
-    "Trusted health, finance, lifestyle, travel, and pet advice crafted for Canadians. Real information. Real Canada.",
+    "Canada's source for UFO sightings, government disclosure, alien theories, and paranormal news. Declassified documents, whistleblower reports, and Canadian encounters.",
   openGraph: {
     type: "website",
     locale: "en_CA",
@@ -24,10 +24,10 @@ export const metadata: Metadata = {
     siteName: "Canada Insider",
     images: [
       {
-        url: "https://images.unsplash.com/photo-1503614472-8c93d56e92ce?w=1200&q=80",
+        url: "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=1200&q=80",
         width: 1200,
         height: 630,
-        alt: "Canada Insider",
+        alt: "Canada Insider — UFO & Paranormal News",
       },
     ],
   },
