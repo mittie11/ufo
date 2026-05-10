@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Disclaimer",
-  description: "Canada Insider Disclaimer — important information about the nature of our content.",
+  description: "America Insider Disclaimer — important information about the nature of our content.",
 };
 
 export default function DisclaimerPage() {
@@ -14,14 +14,14 @@ export default function DisclaimerPage() {
 
       <div className="prose prose-lg max-w-none prose-headings:text-gray-900 prose-p:text-gray-700">
         <p>
-          The information published on Canada Insider is provided for general informational and
+          The information published on America Insider is provided for general informational and
           entertainment purposes only. By using this website, you acknowledge and agree to the
           following terms.
         </p>
 
         <h2>Entertainment and Informational Purposes</h2>
         <p>
-          Canada Insider covers topics including UFO sightings, government disclosure, paranormal
+          America Insider covers topics including UFO sightings, government disclosure, paranormal
           phenomena, alien theories, ancient mysteries, and related subjects. Much of this content
           is speculative, unverified, or based on reported witness accounts and unofficial claims.
           Articles are presented for entertainment and discussion, not as established scientific
@@ -33,11 +33,11 @@ export default function DisclaimerPage() {
           Articles on this site frequently present claims made by witnesses, researchers,
           whistleblowers, and unofficial sources. The use of language such as "reportedly,"
           "allegedly," "according to witnesses," and "claims suggest" indicates that a statement
-          has not been independently verified by Canada Insider. Readers should exercise their own
+          has not been independently verified by America Insider. Readers should exercise their own
           judgement when evaluating such claims.
         </p>
         <p>
-          Canada Insider does not assert that extraterrestrial life exists, that UFOs are
+          America Insider does not assert that extraterrestrial life exists, that UFOs are
           spacecraft of non-human origin, or that any conspiracy theory presented on this site is
           true. We report on these topics because they are subjects of genuine public interest,
           ongoing scientific inquiry, and official government investigation.
@@ -55,10 +55,10 @@ export default function DisclaimerPage() {
 
         <h2>Advertising Disclosure</h2>
         <p>
-          Canada Insider is supported by advertising revenue, primarily through Google AdSense.
+          America Insider is supported by advertising revenue, primarily through Google AdSense.
           Advertisements displayed on this site are served by third-party ad networks and are
           subject to their respective advertising policies. The presence of an advertisement does
-          not constitute an endorsement of the advertised product or service by Canada Insider.
+          not constitute an endorsement of the advertised product or service by America Insider.
           Advertisers have no influence over our editorial content.
         </p>
 
@@ -72,7 +72,7 @@ export default function DisclaimerPage() {
 
         <h2>Limitation of Liability</h2>
         <p>
-          To the fullest extent permitted by applicable law, Canada Insider, its operators,
+          To the fullest extent permitted by applicable law, America Insider, its operators,
           editors, and contributors shall not be liable for any direct, indirect, incidental,
           consequential, or punitive damages arising from your use of, or inability to use, this
           website or its content.

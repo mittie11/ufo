@@ -8,10 +8,10 @@ export default function Header() {
         <div className="flex items-center justify-between h-16">
           <Link href="/" className="flex items-center gap-2">
             <span className="text-2xl font-extrabold text-red-700 tracking-tight">
-              Canada<span className="text-gray-900">Insider</span>
+              America<span className="text-gray-900">Insider</span>
             </span>
             <span className="hidden sm:inline text-xs text-gray-400 font-medium border-l border-gray-200 pl-2">
-              Canada's UFO &amp; Paranormal News
+              America's UFO &amp; Paranormal News
             </span>
           </Link>
 

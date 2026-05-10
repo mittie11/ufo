@@ -18,7 +18,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const cat = categories.find((c) => c.slug === category);
   if (!cat) return {};
   return {
-    title: `${cat.name} — Canada Insider`,
+    title: `${cat.name} — America Insider`,
     description: cat.description,
   };
 }

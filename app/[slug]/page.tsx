@@ -146,7 +146,7 @@ export default async function ArticlePage({ params }: Props) {
           <div className="bg-red-50 border border-red-100 rounded-xl p-5">
             <h3 className="text-sm font-bold text-red-800 mb-1">About Canada Insider</h3>
             <p className="text-xs text-gray-600 mb-3">
-              Canada&apos;s source for UFO sightings, government disclosure, and paranormal news.
+              America&apos;s source for UFO sightings, government disclosure, and paranormal news.
             </p>
             <Link href="/about" className="text-xs font-semibold text-red-700 hover:underline">
               Learn more →

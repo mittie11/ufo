@@ -9,11 +9,11 @@ export default function Footer() {
           <div className="md:col-span-2">
             <Link href="/" className="inline-block mb-3">
               <span className="text-2xl font-extrabold text-red-500">
-                Canada<span className="text-white">Insider</span>
+                America<span className="text-white">Insider</span>
               </span>
             </Link>
             <p className="text-sm text-gray-400 leading-relaxed max-w-sm">
-              Canada's source for UFO sightings, government disclosure, alien theories, and paranormal news. Credible reporting on the unexplained.
+              America's source for UFO sightings, government disclosure, alien theories, and paranormal news. Credible reporting on the unexplained.
             </p>
           </div>
 
@@ -57,7 +57,7 @@ export default function Footer() {
 
         <div className="border-t border-gray-800 mt-10 pt-6 flex flex-col sm:flex-row items-center justify-between gap-3">
           <p className="text-xs text-gray-500">
-            © {new Date().getFullYear()} CanadaInsider. All rights reserved.
+            © {new Date().getFullYear()} AmericaInsider. All rights reserved.
           </p>
           <p className="text-xs text-gray-600">
             Content is for informational and entertainment purposes only.

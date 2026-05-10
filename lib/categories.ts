@@ -31,9 +31,9 @@ export const categories: Category[] = [
     description: "The latest from space exploration, NASA discoveries, and cosmic anomalies.",
   },
   {
-    slug: "canadian-encounters",
-    name: "Canadian Encounters",
-    description: "UFO sightings and paranormal events reported across Canadian provinces.",
+    slug: "american-encounters",
+    name: "American Encounters",
+    description: "UFO sightings and paranormal events reported across the United States.",
   },
   {
     slug: "scifi-science",

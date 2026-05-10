@@ -10,24 +10,24 @@ const geist = Geist({
 });
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://www.canadainsider.ca"),
+  metadataBase: new URL("https://www.americainsider.com"),
   title: {
-    default: "Canada Insider — UFO & Paranormal News for Canadians",
-    template: "%s | Canada Insider",
+    default: "America Insider — UFO & Paranormal News",
+    template: "%s | America Insider",
   },
   description:
-    "Canada's source for UFO sightings, government disclosure, alien theories, and paranormal news. Declassified documents, whistleblower reports, and Canadian encounters.",
+    "America's source for UFO sightings, government disclosure, alien theories, and paranormal news. Declassified documents, whistleblower reports, and American encounters.",
   openGraph: {
     type: "website",
-    locale: "en_CA",
-    url: "https://www.canadainsider.ca",
-    siteName: "Canada Insider",
+    locale: "en_US",
+    url: "https://www.americainsider.com",
+    siteName: "America Insider",
     images: [
       {
         url: "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=1200&q=80",
         width: 1200,
         height: 630,
-        alt: "Canada Insider — UFO & Paranormal News",
+        alt: "America Insider — UFO & Paranormal News",
       },
     ],
   },
@@ -46,7 +46,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en-CA" className={`${geist.variable} h-full`}>
+    <html lang="en-US" className={`${geist.variable} h-full`}>
       <head>
         {/* Google Analytics 4 — replace G-XXXXXXXXXX with your Measurement ID */}
         {process.env.NEXT_PUBLIC_GA_ID && (
